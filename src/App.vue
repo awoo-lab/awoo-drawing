@@ -37,10 +37,10 @@
       return;
     }
 
-    if (headcount.value > 20) {
+    if (headcount.value > 100) {
       Swal.fire({
         icon: 'warning',
-        text: '抽獎人數最多一次20人',
+        text: '抽獎人數最多一次100人',
         confirmButtonColor: '#4E4C4C',
       });
       return;
