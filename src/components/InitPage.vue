@@ -22,7 +22,7 @@
     <header
       class="flex flex-col justify-center items-center pb-2"
     >
-    <img src="../assets/title-v10.png" alt="" class="p-5 w-120 bg-bg rounded-3xl shadow-3xl mb-5" />
+    <img src="../assets/year-of-snake.png" alt="" class="p-5 w-120 bg-bg rounded-3xl shadow-3xl mb-5" />
       <h2 class="text-white text-[72px] leading-[59px] flex items-center gap-5 bg-red">
       </h2>
     </header>
